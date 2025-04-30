@@ -1,0 +1,7 @@
+4750 154 125                     King Arthur
+                     Benevolent
+30000 0.2 0.1 115762 0.05
+Food 2000
+Wood 1000
+Stone 500
+Iron 1000
